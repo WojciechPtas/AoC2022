@@ -131,6 +131,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day1.hpp" />
+    <ClInclude Include="Day10.hpp" />
+    <ClInclude Include="Day2.hpp" />
+    <ClInclude Include="Day3.hpp" />
+    <ClInclude Include="Day4.hpp" />
+    <ClInclude Include="Day5.hpp" />
+    <ClInclude Include="Day6.hpp" />
+    <ClInclude Include="Day7.hpp" />
+    <ClInclude Include="Day8.hpp" />
+    <ClInclude Include="Day9.hpp" />
+    <ClInclude Include="Solution.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input_1.txt" />
